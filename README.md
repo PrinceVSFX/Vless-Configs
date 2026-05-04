@@ -19,7 +19,7 @@
 
 <details>
 
-<summary>📱 Гайд для Android</summary>
+<summary> Гайд для Android</summary>
 
 **1.** Скачиваем **«v2rayNG»** — [Ссылка](https://github.com/2dust/v2rayNG/releases/download/2.0.18/v2rayNG_2.0.18_universal.apk)
 
