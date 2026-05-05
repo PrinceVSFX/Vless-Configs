@@ -3,23 +3,19 @@
 Не нужно искать сервера и вводить настройки вручную. Здесь собраны готовые конфиги, которые обновляются каждый день.
 
 1. Найдите ниже подходящую ссылку (TXT-подписку).
-2. Скопируйте её.
-3. Вставьте в любое популярное приложение: (`Exlave` / `v2rayNG` / `Hiddify` / `NekoRay` / `V2Box` / `Streisand`) 
+2. Скопируйте нужную ссылку из раздела **«Cписок конфигов»**.
+3. Импортируйте её в ваш **VPN-клиент**: (`Exlave` / `v2rayNG` / `Hiddify` / `NekoRay` / `V2Box` / `Streisand`)
+4. Выберите самый быстрый сервер и подключайтесь. 
 
-Поддерживаются протоколы: (`VLESS`, `VMess`, `Trojan`, `Shadowsocks`, `Hysteria`, `Reality`) . Если один протокол замедлится, вы всегда можете переключиться на другой.
+Поддерживаются протоколы: (`VLESS`, `VMess`, `Trojan`, `Shadowsocks`, `Hysteria`, `Reality`). Если один протокол замедлится, вы всегда можете переключиться на другой.
 
 ## Список конфигов
 
-VLESS Config list
+·VLESS Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Vless_list.txt`
 
-White Config list
+·White Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/White_list.txt`
-
-## Быстрый старт
-1. Скопируйте нужную ссылку из раздела **«Cписок конфигов»**.  
-2. Импортируйте её в ваш **VPN-клиент** (см. инструкции ниже).  
-3. Выберите сервер с минимальным пингом и подключайтесь.
 
 ## Гайд на все устройства
 
@@ -31,10 +27,10 @@ White Config list
 
 **2.** Копируем в буфер обмена: 
 
-VLESS Config list 
+·VLESS Config list 
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Vless_list.txt`
 
-White Config list
+·White Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/White_list.txt`
 
 **3.** Заходим в приложение **«v2rayNG»** и в правом верхнем углу нажимаем на ➕, а затем выбираем **«Импорт из буфера обмена»**.
@@ -53,10 +49,10 @@ White Config list
 
 **2.** Копируем в буфер обмена:
 
-VLESS Config list
+·VLESS Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Vless_list.txt`
 
-White Config list
+·White Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/White_list.txt`
 
 **3.** Заходим в приложение **«V2Box - V2ray Client»** и переходим во вкладку **«Config»**, нажимаем на плюсик в правом верхнем углу, затем — **«Добавить подписку»**, вводим любое **«Название»** и вставляем ссылку на конфиг в поле **«URL»**.
@@ -77,10 +73,10 @@ White Config list
 
 **3.** Копируем в буфер обмена:
 
-VLESS Config list
+·VLESS Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Vless_list.txt`
 
-White Config list
+·White Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/White_list.txt`
 
 **4.** Нажимаем на кнопку **«Добавить из буфера обмена»**.
@@ -103,10 +99,10 @@ White Config list
 
 **2.** Копируем в буфер обмена: 
 
-VLESS Config list
+·VLESS Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Vless_list.txt`
 
-White Config list
+·White Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/White_list.txt`
 
 **3.** Нажимаем на **«Профили»**, а затем **«Добавить профиль из буфера обмена»**.
