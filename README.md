@@ -23,7 +23,7 @@
 **2.** Копируем в буфер обмена: 
 
 · Vless Config list 
-1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/White_list.txt`
+1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Vless_list.txt`
 
 · White Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/White_list.txt`
@@ -47,7 +47,7 @@
 **2.** Копируем в буфер обмена:
 
 · Vless Config list
-1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/White_list.txt`
+1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Vless_list.txt`
 
 · White Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/White_list.txt`
@@ -71,7 +71,7 @@
 **3.** Копируем в буфер обмена:
 
 · Vless Config list
-1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/White_list.txt`
+1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Vless_list.txt`
 
 · White Config list
 1) `https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/White_list.txt`
