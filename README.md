@@ -37,7 +37,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:00BFFF&height=120&section=header"/>
 
 **All configurations were filtered, cleaned, deduplicated, and merged into subscription (.txt) files for easier use and distribution.**
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00FF88&height=5"/>
+<img width="91%" src="https://capsule-render.vercel.app/api?type=rect&color=00FF88&height=5"/>
 
 *Thanks to the original authors and contributors for maintaining these repositories.*
 
