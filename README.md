@@ -26,7 +26,7 @@ These configuration lists have been cleaned, deduplicated, tested, sorted by qua
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=80&color=0:000000,100:000000&text=DOWNLOAD&fontColor=ffffff&fontSize=28"/>
 
 ```
-https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/AvenCores_full_sorted.txt
+https://raw.githubusercontent.com/PrinceVSFX/Vless-Configs/main/Configs_list.txt
 ```
 
 </div>
